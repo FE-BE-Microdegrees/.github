@@ -1,6 +1,6 @@
 # Front-End and Back-End Microdegrees
 
-This Organization is created to store and share all the materials and contents related to the Microdegrees of Front-End and Back-End Development Erasmus + project.'
+This Organization is created to store and share all the materials and contents related to the Microdegrees of Front-End and Back-End Development Erasmus + project.
 
 ## About project:
 
@@ -35,6 +35,7 @@ All learning materials created during the project are free to use and can be ada
 ### Project Coordinator
 
 TALLINN UNIVERSITY HAAPSALU COLLEGE (EE)
+
 Lihula road 12/1, 90507, Haapsalu
 
 Website: https://www.tlu.ee/haapsalu
@@ -42,6 +43,7 @@ Website: https://www.tlu.ee/haapsalu
 ### Project Partners
 
 **Söke Bilim ve Sanat Merkezi (TR)**
+
 Cumhuriyet, Uyanık Sk. No:1/1, 09200 Söke/Aydın
 09200 Söke, Aydın
 
@@ -49,13 +51,12 @@ Website: http://sokebilsem.meb.k12.tr/
 
 
 **INSTITOYTO KOINONIKIS KAINOTOMIAS KAI SYNOXIS (GR)**
+
 POSEIDONOS STR 26
 542 50 THESSALONIKI
 Κεντρική Μακεδονία (Kentriki Makedonia)
 
 Website: http://www.fifty-fifty.gr
-
-
 
 ### Project Information
 
@@ -64,7 +65,6 @@ Start Date: Feb 1, 2023
 End Date: Jan 31, 2025
 
 [Link](https://erasmus-plus.ec.europa.eu/projects/search/details/2022-2-EE01-KA220-HED-000100317)
-
 
 ## About this Github Organization
 
