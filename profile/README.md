@@ -1,4 +1,4 @@
-# Front-End and Back-End Microdegrees
+# Developing web development front-end and back-end microdegrees
 
 This Organization is created to store and share all the materials and contents related to the Microdegrees of Front-End and Back-End Development Erasmus + project.
 
