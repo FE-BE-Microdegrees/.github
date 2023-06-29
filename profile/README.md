@@ -12,7 +12,9 @@ microdegrees**
 **Objectives**
 
 During the project, we will study the needs of software development companies and, based on the results, develop microdegrees for teaching and learning front-end and back-end web development.
+
 We develop microdegrees in such a way that they cover the basic needs so that a person can start working in a software development company after passing the microdegree.
+
 All learning materials created during the project are free to use and can be adapted to your own needs.
 
 **Activities**
