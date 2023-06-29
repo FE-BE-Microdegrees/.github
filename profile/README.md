@@ -73,3 +73,30 @@ This organization contains following repositories:
 - [Front-End Microdegree](https://github.com/FE-BE-Microdegrees/Front-End-Microdegree)
 - [Back-End Microdegree](https://github.com/FE-BE-Microdegrees/Back-End-Microdegree)
 - [Subjects](https://github.com/FE-BE-Microdegrees/Subjects)
+
+## Structure of Microdegrees
+
+```mermaid
+flowchart TB
+    subgraph BE [Back-End Microdegree]
+    BEF[Back-End Frameworks]
+    click BEF "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Back-End-Frameworks" _blank
+    DB[Databases]
+    click DB "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Databases" _blank
+    end
+    subgraph FE [Front-End Microdegree]
+    FET[Front-End Technologies]
+    click FET "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Front-End-Technologies" _blank
+    FEF[Front-End Frameworks]
+    click FEF "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Front-End-Frameworks" _blank
+    end
+    subgraph CS [Common Subjects]
+    SD[Software Development]
+    click SD "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Software-Development" _blank
+    PB[Programming Basics]
+    click PB "https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Programming-Basics" _blank
+    end
+    CS --> FE
+    CS --> BE
+
+```
